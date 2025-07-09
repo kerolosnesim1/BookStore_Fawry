@@ -16,4 +16,5 @@ The `main` method in `Main.java` demonstrates:
 Let me know if you'd like to include build/run instructions or a GitHub badge section as well.
 
 here is a Screenshot from my running app:
-![Description](https://i.postimg.cc/r0V6Zmcp/image.png =500x)
+
+[![Screenshot-2025-07-09-034109.png](https://i.postimg.cc/nz7HzjPq/Screenshot-2025-07-09-034109.png)](https://postimg.cc/r0V6Zmcp)
