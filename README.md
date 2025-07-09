@@ -13,7 +13,6 @@ The `main` method in `Main.java` demonstrates:
 6. Handling stock and availability using exception handling.
 7. Printing updated inventory after purchase.
 8. Simulating shipping and email services via console outputs.
-Let me know if you'd like to include build/run instructions or a GitHub badge section as well.
 
 here is a Screenshot from my running app:
 
